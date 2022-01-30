@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"D:\Saves\TestRevitApps\RevitAPITraining_6_3.dll"</Assembly>
+		<AddInId>726C7021-C2B3-4B69-B41C-C7A199FFCF4D</AddInId>
+		<FullClassName>RevitAPITraining_6_3.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Расстановка элементов между двумя точками</Text>
+	</AddIn>
+</RevitAddIns>
